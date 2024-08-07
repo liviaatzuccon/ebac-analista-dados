@@ -36,7 +36,3 @@ if continuar != 's':
     print("Até mais...")
 else:
     calculadora()
-
-
-git add projeto-git.py projeto-py.sh
-git commit -m "Adiciona código Python e script .sh"
