@@ -1,3 +1,5 @@
+git clone https://github.com/liviaatzuccon/projeto-git.git
+
 nano calculadora.sh
 
 #!/bin/bash
