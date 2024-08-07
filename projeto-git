@@ -38,5 +38,5 @@ else:
     calculadora()
 
 
-git add nome-do-arquivo.py nome-do-arquivo.sh
+git add projeto-git.py projeto-py.sh
 git commit -m "Adiciona código Python e script .sh"
